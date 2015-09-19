@@ -28,6 +28,7 @@
 * [ArcGIS for Developers](https://developers.arcgis.com/en/)
 * [Esri on Github](http://esri.github.io/)
 * [GeoNet](https://geonet.esri.com/content)
+* [Esri Developer Resources](https://github.com/Esri/developer-support)
 
 # Blog resources
 * [ArcGIS API for JavaScript blogs](http://blogs.esri.com/esri/arcgis/tag/arcgis-api-for-javascript/)
