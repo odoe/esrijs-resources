@@ -29,6 +29,7 @@
 * [Esri on Github](http://esri.github.io/)
 * [GeoNet](https://geonet.esri.com/content)
 * [Esri Developer Resources](https://github.com/Esri/developer-support)
+* [GeometryEngine in ArcGIS JS API](http://blogs.esri.com/esri/arcgis/tag/geometryengine/)
 
 # Blog resources
 * [ArcGIS API for JavaScript blogs](http://blogs.esri.com/esri/arcgis/tag/arcgis-api-for-javascript/)
