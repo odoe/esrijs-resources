@@ -9,7 +9,7 @@
 * [angular-esri-map](https://github.com/Esri/angular-esri-map)
 
 # Angular 2
-*[Angular 2 with ArcGIS JS API](http://odoe.net/blog/angular-2-with-arcgis-js-api/)
+* [Angular 2 with ArcGIS JS API](http://odoe.net/blog/angular-2-with-arcgis-js-api/)
 
 # Ember
 * [Ember with EsriJS](http://odoe.net/blog/ember-with-arcgis-api-for-javascript/)
