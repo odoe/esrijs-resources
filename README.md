@@ -1,5 +1,11 @@
 ## ArcGIS API for JavaScript and Framework integration resources
 
+# jQuery
+* [jQuery Sampel Page](https://developers.arcgis.com/javascript/jssamples/framework_jquery.html)
+
+# Bootstrap
+* [Bootstrap with EsriJS](https://github.com/Esri/bootstrap-map-js)
+
 # ReactJS
 * [EsriJS with ReactJS](http://odoe.net/blog/esrijs-reactjs/)
 * [EsriJS with ReactJS part 2](https://geonet.esri.com/people/odoe/blog/2015/04/01/esrijs-with-reactjs-updated)
@@ -37,6 +43,7 @@
 
 # More Resources
 * [ArcGIS API for JavaScript documentation](https://developers.arcgis.com/javascript/)
+* [ArcGIS API for JavaScript FAQ](https://developers.arcgis.com/javascript/jshelp/inside_faq.html) - info on builds and frameworks
 * [ArcGIS for Developers](https://developers.arcgis.com/en/)
 * [Esri on Github](http://esri.github.io/)
 * [GeoNet](https://geonet.esri.com/content)
