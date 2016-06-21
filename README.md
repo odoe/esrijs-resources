@@ -1,7 +1,7 @@
 ## ArcGIS API for JavaScript and Framework integration resources
 
 ### jQuery
-* [jQuery Sampel Page](https://developers.arcgis.com/javascript/jssamples/framework_jquery.html)
+* [jQuery Sample Page](https://developers.arcgis.com/javascript/jssamples/framework_jquery.html)
 
 ### Bootstrap
 * [Bootstrap with EsriJS](https://github.com/Esri/bootstrap-map-js)
