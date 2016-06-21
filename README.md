@@ -42,7 +42,7 @@
 * [TypeScript, Elm and ArcGIS JS API](http://odoe.net/blog/typescript-elm-and-arcgis-api-for-javascript/)
 
 # Vector Tiles 
-* [ArcGIS API for JavaScript Vector Tile Demos and Demos](https://github.com/odoe/esrijs-vt-demos)
+* [ArcGIS API for JavaScript Vector Tile Demos and Resources](https://github.com/odoe/esrijs-vt-demos)
 
 # Loader Integration
 * SystemJS - [esri-system-js](https://github.com/Esri/esri-system-js)
