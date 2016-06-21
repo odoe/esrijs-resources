@@ -1,59 +1,59 @@
 ## ArcGIS API for JavaScript and Framework integration resources
 
-# jQuery
+### jQuery
 * [jQuery Sampel Page](https://developers.arcgis.com/javascript/jssamples/framework_jquery.html)
 
-# Bootstrap
+### Bootstrap
 * [Bootstrap with EsriJS](https://github.com/Esri/bootstrap-map-js)
 
-# ReactJS
+### ReactJS
 * [EsriJS with ReactJS](http://odoe.net/blog/esrijs-reactjs/)
 * [EsriJS with ReactJS part 2](https://geonet.esri.com/people/odoe/blog/2015/04/01/esrijs-with-reactjs-updated)
 * [4.0 View Models in ReactJS](https://github.com/odoe/esrijs4-vm-react)
 
-# Angular
+### Angular
 * [angular-esri-map](https://github.com/Esri/angular-esri-map)
 
-# Angular 2
+### Angular 2
 * [Angular 2 with ArcGIS JS API](http://odoe.net/blog/angular-2-with-arcgis-js-api/)
 
-# Ember
+### Ember
 * [Ember with EsriJS](http://odoe.net/blog/ember-with-arcgis-api-for-javascript/)
 * [Ember with EsriJS part 2](https://geonet.esri.com/people/odoe/blog/2015/07/01/ember-for-your-arcgis-api-javascript)
 * [ember-cli-amd](https://github.com/Esri/ember-cli-amd)
 * [4.0 View Models in Ember](https://github.com/odoe/esrijs4-vm-ember)
 
-# Polymer
+### Polymer
 * [Polymer with EsriJS](http://odoe.net/blog/polymer-with-arcgis-api-for-javascript/)
 * [EsriJS with Polymer](https://geonet.esri.com/people/odoe/blog/2015/09/16/arcgis-api-for-javascript-with-polymer)
 * [esri-polymer](https://github.com/JamesMilnerUK/esri-polymer)
 
-# Ramda
+### Ramda
 * [EsriJS with Ramda](http://odoe.net/blog/esrijs-with-ramda/)
 
-# RxJS
+### RxJS
 * [Using RxJS with EsriJS](http://odoe.net/blog/using-rxjs-with-the-arcgis-api-for-javascript/)
 
-# CycleJS
+### CycleJS
 * [Cycle JS with ArcGIS API for JavaScript](http://odoe.net/blog/cyclejs-with-arcgis-js-api/)
 
-# Elm
+### Elm
 * [4.0 View Models in Elm](https://github.com/odoe/esrijs4-vm-elm)
 * [TypeScript, Elm and ArcGIS JS API](http://odoe.net/blog/typescript-elm-and-arcgis-api-for-javascript/)
 
-## Vector Tiles 
+# Vector Tiles 
 * [ArcGIS API for JavaScript Vector Tile Demos and Demos](https://github.com/odoe/esrijs-vt-demos)
 
-## Loader Integration
+# Loader Integration
 * SystemJS - [esri-system-js](https://github.com/Esri/esri-system-js)
 * Webpack - [dojo-webpack-loader](https://github.com/Nordth/dojo-webpack-loader) and [esri-webpack](https://github.com/lobsteropteryx/esri-webpack)
 
-## TypeScript
+# TypeScript
 * [3.x TypeScript Definition Files](https://github.com/Esri/jsapi-resources/tree/master/3.x/typescript)
 * [4.x TypeScript Definition Files](https://github.com/Esri/jsapi-resources/tree/master/4.x/typescript)
 * [Using TypeScript with ArcGIS API 4 for JavaScript](http://odoe.net/blog/using-typescript-esrijs-4/)
 
-## More Resources
+# More Resources
 * [ArcGIS API for JavaScript documentation](https://developers.arcgis.com/javascript/)
 * [ArcGIS API for JavaScript FAQ](https://developers.arcgis.com/javascript/jshelp/inside_faq.html) - info on builds and frameworks
 * [ArcGIS for Developers](https://developers.arcgis.com/en/)
