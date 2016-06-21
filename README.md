@@ -52,6 +52,7 @@
 * [3.x TypeScript Definition Files](https://github.com/Esri/jsapi-resources/tree/master/3.x/typescript)
 * [4.x TypeScript Definition Files](https://github.com/Esri/jsapi-resources/tree/master/4.x/typescript)
 * [Using TypeScript with ArcGIS API 4 for JavaScript](http://odoe.net/blog/using-typescript-esrijs-4/)
+* [ArcGIS API 4 for JavaScript TypeScript Demo](https://github.com/odoe/esrijs4-ts)
 
 # More Resources
 * [ArcGIS API for JavaScript documentation](https://developers.arcgis.com/javascript/)
